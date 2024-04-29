@@ -1,0 +1,24 @@
+@font-face {
+    font-family: Cronus;
+    src: url('./assets/CRONUS\ ROUND.OTF');
+  }
+  
+  @font-face {
+    font-family: Readex;
+    src: url('./assets/READEXPRO-VARIABLEFONT_HEXP\,WGHT.TTF');
+  }
+  
+  @font-face {
+    font-family: Raleway;
+    src: url('./assets/RALEWAY-REGULAR.TTF');
+  }
+  
+  @font-face {
+    font-family: RalewayBold;
+    src: url('./assets/RALEWAY-SEMIBOLD.TTF');
+  }  
+
+body {
+    background-color: #fbf7f5;
+    margin: 0;
+}
